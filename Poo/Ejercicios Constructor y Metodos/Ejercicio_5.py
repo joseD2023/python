@@ -5,3 +5,6 @@ class Personaje:
   self.nombre = nombre 
   self.vida = vida 
   self.ataque = ataque
+
+  def atacar(self, enemigo):
+   pass 
